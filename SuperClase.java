@@ -1,4 +1,3 @@
-
 public abstract class SuperClase {
     
     private int id;

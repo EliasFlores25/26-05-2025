@@ -1,4 +1,3 @@
-
 public class Futbolista extends SuperClase {
 
     private int dorsal;

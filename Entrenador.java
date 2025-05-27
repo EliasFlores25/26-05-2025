@@ -1,4 +1,3 @@
-
 public class Entrenador extends SuperClase {
   
     private String idFederacion;

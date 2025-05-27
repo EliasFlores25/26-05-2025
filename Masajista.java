@@ -1,9 +1,7 @@
-
-
 public class Masajista extends SuperClase {
    
     private String titulacion;
-    private int aniosExperiencia;
+    private int aniosExperiencia; //Años(Ñ).
 
     public Masajista(int id, String nombre, String apellidos, int edad, String titulacion, int aniosExperiencia) {
 
